@@ -1,4 +1,4 @@
-# Presentación de LHLab para PyDay CHile 2020
+# Presentación de LHLab para PyDay Chile 2020
 ## "Visualización rápida de datos y aplicaciones con Streamlit"
 
 Este repositorio de cuenta con la mayoría de los códigos ocupados en la presentación "Visualización rápida de datos y aplicaciones con Streamlit"
